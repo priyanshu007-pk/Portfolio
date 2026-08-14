@@ -1,0 +1,16 @@
+div{
+    text-align: center;
+}
+#top{
+    border:5px solid black;
+    height: 200px;
+    width:350px;
+    background-color: cadetblue;
+    border-radius: 12px;
+    padding:20px;
+    
+
+}
+.section{
+    align-items: left;
+}
