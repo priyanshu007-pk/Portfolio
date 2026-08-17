@@ -1,16 +1,12 @@
-div{
-    text-align: center;
+.upper{
+    border:5px black solid;
+    border-radius: 10px;;
 }
 #top{
-    border:5px solid black;
-    height: 200px;
-    width:350px;
-    background-color: cadetblue;
-    border-radius: 12px;
-    padding:20px;
     
-
+    text-align: center;
 }
+
 .section{
     align-items: left;
 }
